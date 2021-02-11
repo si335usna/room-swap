@@ -1,0 +1,32 @@
+#### Files with no extension
+*
+!*.*
+!/**/
+#### Editors
+.*.swp
+.swp
+*~
+#### Compiled
+*.o
+*.class
+__pycache__/
+*.pyc
+*.pyo
+*.sage.py
+#### Latex
+*.out
+*.log
+*.nav
+*.snm
+*.toc
+*.vrb
+*.aux
+*.bbl
+*.brf
+*.blg
+*.cut
+*.fls
+*.fdb_latexmk
+##### Development environment
+venv/
+*.egg-info/
