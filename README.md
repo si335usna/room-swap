@@ -67,9 +67,9 @@ make checker
 
 Then you give command-line arguments for the input and output files
 (respectively) to check how you did. For example, included in this
-repository is a small example input [`5x30.txt`][5x30.txt], and a sample
+repository is a small example input [`5x30.txt`](5x30.txt), and a sample
 solution of swaps (like what your program should output) in
-[`sol5x30.txt`][sol5x30.txt]. So you can run
+[`sol5x30.txt`](sol5x30.txt). So you can run
 
 ```bash
 ./checker 5x30.txt sol5x30.txt
@@ -119,8 +119,8 @@ email.
 A few files are included for your own testing. Of course, you can (and
 should) make your own additional files for testing your own code!
 
-*   [`5x30..txt`][5x30.txt] 30 names, 5 companies
-*   [`sol5x30.txt`][sol5x30.txt] sample solution for `5x30.txt` (remember, there are
+*   [`5x30..txt`](5x30.txt) 30 names, 5 companies
+*   [`sol5x30.txt`](sol5x30.txt) sample solution for `5x30.txt` (remember, there are
     many other correct swap orders as well!)
-*   [`3x4000.txt`][3x4000.txt] 4000 names, 3 companies
-*   [`30x4000.txt`][30x4000.txt] 4000 names, 30 companies ("target" case)
+*   [`3x4000.txt`](3x4000.txt) 4000 names, 3 companies
+*   [`30x4000.txt`](30x4000.txt) 4000 names, 30 companies ("target" case)
