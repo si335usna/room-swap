@@ -53,6 +53,29 @@ indicating who should be swapped, in order.
 There is not just one right answer, but there are some answers that are
 better than others!
 
+## What to turn in
+
+Submit to [submit.moboard.com](https://submit.moboard.com/) under SI335
+and assignment name `proj1`. Your submission should contain two files:
+
+*   Your source code, all in one file called `rooms.cpp` or similar (see
+    table below under Languages)
+
+*   An extensive `README.txt` file that:
+
+    +   Has your name
+    +   Cites (specifically!) any references you used in accordance with
+        the collaboration policy
+    +   Explains clearly how your program works
+    +   Briefly explains how you came up with your brilliant idea
+    +   Gives an analysis in terms of *n* and *k* (number of companies)
+        of the running time of your program. Use what we've learned in
+        class like best-case, worst-case, big-Theta, etc, and try to be
+        as precise as you can.
+    +   Gives an analysis of the number of swaps produced by your
+        program in terms of *n* and *k*. (Note, this can be less than
+        your program's running time!)
+
 ## Check program
 
 To help you out, I have included a program [`checker.cpp`](checker.cpp) that will check
