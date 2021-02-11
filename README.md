@@ -55,7 +55,7 @@ better than others!
 
 ## Check program
 
-To help you out, I have included a program `checker.cpp` that will check
+To help you out, I have included a program [`checker.cpp`](checker.cpp) that will check
 the input and output for correctness and count how many swaps there
 were.
 
@@ -124,3 +124,43 @@ should) make your own additional files for testing your own code!
     many other correct swap orders as well!)
 *   [`3x4000.txt`](3x4000.txt) 4000 names, 3 companies
 *   [`30x4000.txt`](30x4000.txt) 4000 names, 30 companies ("target" case)
+
+## Downloading this repo
+
+You can scroll up and download individual files, or you can just use
+git to clone the entire repository. Many (most?) professional
+programmers nowadays use git to collaborate, organize, and share code,
+so it's worth your effort to learn to use it a little bit.
+
+To download ("clone") this repository, run from a linux command-line:
+
+```bash
+git clone https://github.com/si335usna/room-swap.git
+```
+
+This will create a directory `room-swap` from wherever you ran that
+command, with all of these files. You can `cd` into that directory and
+get to work!
+
+Later, if some updates get made to this starter code repository and you
+want to copy them to your local copy, you can just run:
+
+```bash
+git commit -am "saving my code"
+git pull -s recursive -X ours origin main
+```
+
+I *strongly encourage* you to save your work using GitHub (or BitBucket
+or GitLab or any other git-hosting service). For example, if you create
+a free github account with username `myself`, then create a repository
+(click the big + sign) called `myrepo`, you can connect that to your
+local version by running
+
+```bash
+git remote add mine https://github.com/myself/myrepo
+git push -u mine main
+```
+
+**Note**: Make sure your repository is *private*; otherwise you are
+sharing your solutions with the world and probably violating the course
+policy.
