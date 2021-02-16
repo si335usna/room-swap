@@ -147,6 +147,10 @@ should) make your own additional files for testing your own code!
     many other correct swap orders as well!)
 *   [`3x4000.txt`](3x4000.txt) 4000 names, 3 companies
 *   [`30x4000.txt`](30x4000.txt) 4000 names, 30 companies ("target" case)
+*   [`5x100close.txt`](5x100close.txt) 100 names, 5 companies, and
+    "close" to a correct order - possible to solve with about 10 swaps.
+*   [`30x4000close.txt`](30x4000close.txt) 4000 names, 30 companies, and
+    "close" to a correct order - possible to solve with about 100 swaps.
 
 ## Downloading this repo
 
