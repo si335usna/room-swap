@@ -55,7 +55,7 @@ better than others!
 
 ## What to turn in
 
-Submit to [submit.moboard.com](https://submit.moboard.com/) under SI335
+Submit to [submit.cs.usna.edu](https://submit.cs.usna.edu) under SI335
 and assignment name `proj1`. Your submission should contain two files:
 
 *   Your source code, all in one file called `rooms.cpp` or similar (see
