@@ -20,7 +20,7 @@ The goal is to accomplish this goal with **the fewest number of swaps**.
 
 Take a moment to review the
 [relevant section from the course
-policy](https://usna.edu/Users/cs/roche/335/resources/policy.php#collaboration).
+policy](https://usna.edu/Users/cs/pfau/s22si335/resources/policy.php#collaboration).
 
 **If you have any doubt of what is allowed, just ask!**
 
@@ -38,8 +38,8 @@ and names will always consist of letters (no spaces) and have length at
 most 40. The number of names *n* will be at most 1 million.
 
 Despite the bounds just given, you should think of your *target*/typical
-input as having 30 companies and 4000 names. If your program does great
-on such inputs, that will be best.
+input as having 30 companies and 4000 names. Other, larger, input sizes
+will be tested but you should focus on good performance on this input size.
 
 Your program must **run within 5 seconds on my computer**, which has the
 same specs as the machines in the Linux labs of Hopper Hall. If it takes
